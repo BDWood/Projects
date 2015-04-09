@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"u",
+				"u	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fom",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "instal",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"sytax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntaxJ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ren",
+				"Preferences: Settings - User"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bryanwood/Sites/M1"
+	],
+	"file_history":
+	[
+		"/Users/bryanwood/Sites/test.html",
+		"/Users/bryanwood/Hosts/test.conf",
+		"/Users/bryanwood/Sites/localhost/index.html",
+		"/Users/bryanwood/Hosts/mysite.conf",
+		"/Users/bryanwood/Hosts/M1.conf",
+		"/Users/bryanwood/Hosts/M5.conf",
+		"/Users/bryanwood/Hosts/M3.conf",
+		"/Users/bryanwood/Hosts/M4.conf",
+		"/Users/bryanwood/Hosts/M2.conf",
+		"/Users/bryanwood/Hosts/localhost.conf",
+		"/Users/bryanwood/Downloads/Character-Sheet_files/www-embed-player.js",
+		"/Users/bryanwood/Downloads/Character-Sheet_files/tutorial_tips.js",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Coding.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Relationships.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Gaming.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/foot-lay-out.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/super-lay-out.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Writing.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Animation.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Animation.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Relationships.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Gaming.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Coding.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Writing.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Coding.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Coding.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Relationships.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Animation.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Gaming.css",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Relationships.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Gaming.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Animation.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/WritingPageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing.html",
+		"/Users/bryanwood/Desktop/Writing.jpeg",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing/Writing.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Food.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page6.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page5.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page4.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Page3.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Victoria.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaP2.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaP2.css",
+		"/Users/bryanwood/Desktop/Code/Universal Code/WritingPageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Victoria.css",
+		"/Users/bryanwood/Desktop/Code/Universal Code/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaOriginal.html",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/VictoriaP2.html",
+		"/Users/bryanwood/Desktop/Code/Victoria.css",
+		"/Users/bryanwood/Desktop/Code/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/VictoriaOriginal.html",
+		"/Users/bryanwood/Desktop/Code/tree.css",
+		"/Users/bryanwood/Desktop/Code/Tree.html",
+		"/Users/bryanwood/Desktop/Code/Love/love.css",
+		"/Users/bryanwood/Desktop/Code/Love/love.html",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/MyProfileForStyle",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/Style.css",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/MyProfileStyled",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/myprofile.html",
+		"/Users/bryanwood/Downloads/ME.jpeg",
+		"/Users/bryanwood/Desktop/Code/Projects/Love/love.html",
+		"/Users/bryanwood/Desktop/Code/Projects/Love/love.js",
+		"/Users/bryanwood/Desktop/Code/Love.sublime-project",
+		"/Users/bryanwood/Desktop/Code/love.css",
+		"/Users/bryanwood/Desktop/Code/love.html",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/User/Love.html",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/User/Love.css",
+		"/Index.htm",
+		"/READ ME",
+		"/Users/bryanwood/Desktop/ebay-hvac-mcp1.html",
+		"/<!DOCTYPE html>",
+		"/ReasonsICode.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"90px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "M1.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/test.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/SublimeText3/localhost.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

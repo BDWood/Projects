@@ -1,0 +1,29 @@
+body{
+    background-image: url("dimension.png");
+}
+
+header, footer {  
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-right: transparent;
+    border-left: transparent;
+    background-color: white;
+}
+
+header {
+    padding: .7em;
+}
+
+nav {
+    padding: .5em;
+}
+
+nav a, nav {
+    color: #f8f8f8;
+    background-color: #444;
+}
+
+footer {
+    padding: 1.3em;
+}
