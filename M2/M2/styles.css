@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: lato;
+    background-image: url("background.jpg");
+}
+
+.logo {
+    font-family: lobster;
+    font-size: 32pt;
+    color: #424242;
+    margin-bottom: .7em;
+    margin-top: .2em;
+}
+
+.logo a:visited {
+    color: #424242;
+}
+
+header {
+    background-color: white;
+    padding: .7em;
+}
+
+main {
+    padding: 1.5em;
+    background: rgba(255, 255, 255, 0.6);
+    border-radius: 20px;
+    margin: .7em;
+    
+}
+
+main h1 {
+    color: #64a00c;
+}
+
+main.products {
+    padding: 30px;
+    color: #9CC31B;
+    font-size: 3em;
+
+}
+
+main div {
+    padding-bottom: 15px;
+}
+
+.welcome_product {
+    color: #9CC31B;
+}
+
+.product_link {
+    padding-bottom: 0;
+}
+
+nav {
+    margin: -11px;
+    padding: .5em;
+    color: #333;
+}
+
+nav a, nav {
+    color: #f8f8f8;
+    background-color: #444;
+}
+
+nav a {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+form {
+    display: inline-block;
+    padding: 5px;
+}
+
+footer {
+    padding: .3em;
+    margin-left: .5em;
+    color: white;
+}
