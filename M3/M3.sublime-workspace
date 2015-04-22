@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"u",
+				"u	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fom",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"ht m",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"sytax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntaxJ",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"ren",
+				"Preferences: Settings - User"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"syntax cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syntax",
+				"Set Syntax: HTML"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/bryanwood/Desktop/Projects/M3"
+	],
+	"file_history":
+	[
+		"/Users/bryanwood/Desktop/Projects/M3/index.php",
+		"/Users/bryanwood/Desktop/Projects/M3/links.php",
+		"/Users/bryanwood/Desktop/Projects/M3/normalize.css",
+		"/Users/bryanwood/Sites/M2/browse_products.php",
+		"/Users/bryanwood/Sites/M2/product_array.php",
+		"/Users/bryanwood/Sites/M2/styles.css",
+		"/Users/bryanwood/Sites/M2/links.php",
+		"/Users/bryanwood/Sites/localhost/PHP/Loops/loops.php",
+		"/Users/bryanwood/Sites/M2/normalize.css",
+		"/Users/bryanwood/Sites/localhost/Junk/junk.php",
+		"/Users/bryanwood/Dropbox/Blog/Blog2",
+		"/Users/bryanwood/Dropbox/Blog/Blog1",
+		"/Users/bryanwood/Dropbox/Blog/Blog4",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bryanwood/Sites/localhost/HTML/Form Basics/process_form.php",
+		"/Users/bryanwood/Sites/localhost/HTML/Form Basics/index.html",
+		"/Users/bryanwood/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bryanwood/Sites/localhost/CSS/Box Model/Notes",
+		"/Users/bryanwood/Sites/localhost/CSS/Box Model/index.html",
+		"/Users/bryanwood/Sites/localhost/CSS/Box Model/styles.css",
+		"/Users/bryanwood/Sites/localhost/CSS/Box Model/box_model.css",
+		"/Users/bryanwood/Sites/localhost/PHP/Arrays/Array_notes.php",
+		"/Users/bryanwood/Sites/localhost/elevator.php",
+		"/Users/bryanwood/Desktop/Rockit/Student_Resources/PHP/05 Built-in Functions/README.md",
+		"/Users/bryanwood/Sites/M2/header.php",
+		"/Users/bryanwood/Sites/M2/index.php",
+		"/Users/bryanwood/Sites/M2/product_page.php",
+		"/Users/bryanwood/Sites/M2/contact.php",
+		"/Users/bryanwood/Sites/localhost/Junk/styles.css",
+		"/Users/bryanwood/Sites/localhost/Junk/junk.html",
+		"/Users/bryanwood/Sites/M2/elevator_scratch.php",
+		"/Users/bryanwood/Sites/M1/styles.css",
+		"/Users/bryanwood/Sites/M1/browse_products.php",
+		"/Users/bryanwood/Sites/M1/footer.php",
+		"/Users/bryanwood/Sites/M1/product_page.css",
+		"/Users/bryanwood/Sites/M1/browse_products.css",
+		"/Users/bryanwood/Sites/M1/product_page.php",
+		"/Users/bryanwood/Sites/M1/index.php",
+		"/Users/bryanwood/Sites/M1/contact.php",
+		"/Users/bryanwood/Desktop/Projects/M1/index-contact.css",
+		"/Users/bryanwood/Sites/localhost/design-a-page/design.css",
+		"/Users/bryanwood/Sites/localhost/PHP/text.php",
+		"/Users/bryanwood/Sites/localhost/design-a-page/index.html",
+		"/Users/bryanwood/Sites/M1/index-contact.css",
+		"/Users/bryanwood/Sites/localhost/design-a-page/setup.css",
+		"/Users/bryanwood/Sites/localhost/CSS/index.html",
+		"/Users/bryanwood/Sites/localhost/CSS/CSS_Selector_Strategy.css",
+		"/Users/bryanwood/Sites/localhost/PHP/basic_logic/logic_exercise.php",
+		"/Users/bryanwood/Hosts/local3.conf",
+		"/Users/bryanwood/Sites/localhost/PHP/elevator.php",
+		"/Users/bryanwood/Sites/localhost/PHP/operators.php",
+		"/Users/bryanwood/Sites/localhost/HTML/basic_HTML/semantics_notes.html",
+		"/Users/bryanwood/Sites/localhost/HTML/nesting.html",
+		"/Users/bryanwood/Sites/localhost/basics/phpinfo.php",
+		"/Users/bryanwood/Sites/localhost/basic_logic/homework.php",
+		"/Users/bryanwood/Sites/localhost/Practice/practice1.css",
+		"/Users/bryanwood/Sites/localhost/Practice/practice1.html",
+		"/Users/bryanwood/Sites/M1/index.html",
+		"/Users/bryanwood/Sites/test.html",
+		"/Users/bryanwood/Hosts/test.conf",
+		"/Users/bryanwood/Sites/localhost/index.html",
+		"/Users/bryanwood/Hosts/mysite.conf",
+		"/Users/bryanwood/Hosts/M1.conf",
+		"/Users/bryanwood/Hosts/M5.conf",
+		"/Users/bryanwood/Hosts/M3.conf",
+		"/Users/bryanwood/Hosts/M4.conf",
+		"/Users/bryanwood/Hosts/M2.conf",
+		"/Users/bryanwood/Hosts/localhost.conf",
+		"/Users/bryanwood/Downloads/Character-Sheet_files/www-embed-player.js",
+		"/Users/bryanwood/Downloads/Character-Sheet_files/tutorial_tips.js",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Coding.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Relationships.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Gaming.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/foot-lay-out.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/super-lay-out.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Writing.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Animation.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Animation.css",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Relationships.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Gaming.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Coding.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/Writing.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/FuckingAround/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Coding.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Coding.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Relationships.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Animation.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Gaming.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Relationships.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Gaming.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Animation.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/WritingPageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing.html",
+		"/Users/bryanwood/Desktop/Writing.jpeg",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Writing/Writing.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage/HomePage.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/HomePage/HomePage.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Food.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page6.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page5.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/page4.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Page3.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Victoria.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaP2.html",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaP2.css",
+		"/Users/bryanwood/Desktop/Code/Universal Code/WritingPageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/Victoria.css",
+		"/Users/bryanwood/Desktop/Code/Universal Code/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/Fucking Around/VictoriaOriginal.html",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/VictoriaP2.html",
+		"/Users/bryanwood/Desktop/Code/Victoria.css",
+		"/Users/bryanwood/Desktop/Code/PageLayout.css",
+		"/Users/bryanwood/Desktop/Code/VictoriaOriginal.html",
+		"/Users/bryanwood/Desktop/Code/tree.css",
+		"/Users/bryanwood/Desktop/Code/Tree.html",
+		"/Users/bryanwood/Desktop/Code/Love/love.css",
+		"/Users/bryanwood/Desktop/Code/Love/love.html",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/MyProfileForStyle",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/Style.css",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/MyProfileStyled",
+		"/Users/bryanwood/Desktop/Code/Projects/Myprofile/myprofile.html",
+		"/Users/bryanwood/Downloads/ME.jpeg"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/bryanwood/Desktop/Projects/M3"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"link",
+			"require_once",
+			"text",
+			"div",
+			"<div>",
+			"value",
+			">",
+			"\">\n",
+			">",
+			"<input type=\"text\" name=\"first_name\">\n    <input type=\"text\" name=\"last_name\">",
+			"text",
+			"password",
+			"text",
+			");\n",
+			"');",
+			"       \n",
+			"90px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "M3.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"basics/phpinfo.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/SublimeText3/localhost.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
