@@ -1,0 +1,14 @@
+span {
+    color: red;
+}
+
+input {
+    border: 1px dashed;
+    margin-bottom: 5px;
+}
+
+p {
+    margin: 0 0 5px 0;
+    padding: 0 0 0 0;
+}
+

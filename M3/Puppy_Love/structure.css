@@ -1,0 +1,250 @@
+body {
+    font-family: "Open Sans";
+}
+
+/*******************************************************************************
+    Header, Navigation, and Logo
+*******************************************************************************/
+
+header {
+    position: relative;
+    background-color: #FFA500;
+}
+
+.head {
+    padding: 20px;
+    position: relative;
+}
+
+.logo {
+    background-color: #FF0001;
+    font-family: lobster;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+
+form {
+    background-color: #0000FE;
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+
+nav {
+    background-color: #008000;
+    text-align: center;
+    overflow: hidden;
+    padding: 15px;
+    margin-top: 60px;
+}
+
+header > nav > a {
+    padding: 25px;
+}
+
+a, a:visited {
+   color: white;
+   text-decoration: none; 
+}
+
+/*******************************************************************************
+    Hero with the slogan
+*******************************************************************************/
+
+.hero {
+    background-color: #11AABA;
+    position: relative;
+}
+
+.hero > div {
+    background-color: #87D4DC;
+    margin: auto;
+    min-height: 200px;
+    width: 1100px;
+    overflow: hidden;
+    color: white;
+}
+
+.slogan {
+    background-color: #F0F;
+    text-align: center;
+    position: absolute;
+    bottom: 20px;
+}
+
+.slogan > div {
+    font-size: 34pt;
+}
+
+.slogan > div > span {
+    font-weight: bold;
+    font-family:;
+}
+
+.slogan > p {
+    padding-bottom: 10px;
+}
+
+/*******************************************************************************
+    Breakouts
+*******************************************************************************/
+
+.breakouts {
+    background-color: #008000;
+    width: 1100px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.breakouts::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.breakouts > .breakout {
+   background-color: lime;
+   display: inline-block;
+   height: 200px;
+   width: 340px;
+   padding: 20px;
+   margin-top: -30px;
+   margin-bottom: 10px;
+   text-align: center;
+}
+
+.breakouts > * + * {
+    margin-left: 15px;
+}
+
+.breakout-header {
+    font-family: "Open Sans";
+    font-size: 12pt;
+    font-weight: 700;
+    color: #423E44;
+}
+
+.btn-sell, .btn-food, .btn-help {
+    transform: translateY(44px);
+    display: block;
+    margin: auto;
+}
+
+/*******************************************************************************
+    Main Primary Content work
+*******************************************************************************/
+
+.primary-content > div:nth-child(2) {
+    background-color: rgba(255,255,255,0.5);
+    width: 1100px;
+    margin: auto;
+    min-height: 300px;
+    overflow: hidden;
+}
+
+.primary-content {
+    background-color: #800080;
+}
+
+/*******************************************************************************
+    Media Objects in Aside
+*******************************************************************************/
+
+aside {
+    background-color: #0F0;
+    float: left;
+    width: 430px;
+}
+
+aside > div {
+    margin: 10px;
+}
+
+
+.media {
+    background-color: red;
+    overflow: hidden;
+}
+
+.graphic {
+    float: left;
+    background-color: blue;
+    height:100px;
+    width: 100px;
+}
+
+.content {
+    background-color: yellow;
+    margin-left: 100px;
+}
+
+.content > div {
+    font-weight: 700;
+    padding-left: 5px;
+}
+
+.content > span {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+/*******************************************************************************
+    Dog Images
+*******************************************************************************/
+
+.pic1 {
+    background: url("dog1.png");
+    background-size: cover;
+}
+
+.pic2 {
+    background: url("dog2.png");
+    background-size: cover;
+}
+
+.pic3 {
+    background: url("dog3.png");
+    background-size: cover;
+}
+
+/*******************************************************************************
+    Tile Shelf and tiles
+*******************************************************************************/
+
+main {
+    background-color: #00F;
+    margin-left: 430px;
+}
+
+/*.tile-container {
+    display:inline-block;
+    margin: 0/*;
+*//*    width: 175px;
+*/
+
+div.tile {
+    display: inline-block;
+    margin: 10px;
+    background-color: orange;
+    vertical-align: top;
+    width: 175px;
+}
+
+.img {
+    width: 175px;
+    height: 175px;
+}
+
+.descript {
+    background: yellow;
+}
+
+.descript > span {
+    display: block;
+}
+
+.descript > div {
+    font-weight: 700;
+}

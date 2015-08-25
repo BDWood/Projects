@@ -1,17 +1,21 @@
- <?php  
+<?php  
 
-    $product = $_GET['product'];
-    
-    if ($product == '1') {
-        $message = "You chose the Mac";
-    } else if ($product == '2') {
-        $message = "You chose Ubuntu";
-    } else if ($product == '3'){
-        $message = "You chose Windows";
-    } else {
-        $message = "The product you're looking for does not exist.";
-    }
- ?>
+$product = $_GET['product'];
+
+if ($product == 1) {
+    $message = "You chose the Mac";
+
+} else if ($product == 2) {
+    $message = "You chose Ubuntu";
+
+} else if ($product == 3){
+    $message = "You chose Windows";
+
+} else {
+    $message = "The product you're looking for does not exist.";
+}
+
+?>
 
 
 
@@ -21,15 +25,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <link rel="stylesheet" href="product_page.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    
     <?php require_once "header.php" ?>
     
-    <main>
+    <main class="products">
         <?php echo $message ?>
     </main>
 
     <?php require_once "footer.php" ?>
+
 </body>
 </html>

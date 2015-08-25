@@ -1,0 +1,22 @@
+<?php
+
+class Vehicle {
+    private $num_doors;
+    private $num_wheels;
+    private $color;
+
+    public function __construct($num_doors, $num_wheels, $color) {
+        $this->num_doors = $num_doors;
+        $this->num_wheels = $num_wheels;
+        $this->color = $color;
+    }
+
+    public function getData() {
+        return "I have " . $this->num_doors . " doors, " . $this->num_wheels . 
+            " wheels, and I am " . $this->color . ".";
+    }
+}
+
+$car = new Vehicle(4, 4, blue);
+
+echo $car->getData();

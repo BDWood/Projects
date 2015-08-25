@@ -1,0 +1,41 @@
+body {
+    background-image: url("dimension.png");
+}
+
+header, footer {  
+    border: 1px solid black;
+    border-right: transparent;
+    border-left: transparent;
+    background-color: white;
+}
+
+header {
+    padding: .7em;
+}
+
+main.products {
+    padding: 30px 0;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+main div {
+    padding-bottom: 15px;
+}
+
+.product_link {
+    padding-bottom: 0;
+}
+
+nav {
+    padding: .5em;
+}
+
+nav a, nav {
+    color: #f8f8f8;
+    background-color: #444;
+}
+
+footer {
+    padding: 1.3em;
+}

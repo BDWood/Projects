@@ -1,0 +1,320 @@
+body {
+    font-family: "Open Sans";
+}
+
+/*******************************************************************************
+    Header, Navigation, and Logo
+*******************************************************************************/
+
+header {
+    position: relative;
+}
+
+.head {
+    padding: 20px;
+    position: relative;
+}
+
+.logo {
+    font-family: lobster;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    font-size: 3.5em;
+}
+
+form {
+    position: absolute;
+    right: 0;
+    top: 15px;
+}
+
+.search-form {
+    position: absolute;
+    right: 70px;
+    color: rgba(255,255,255, 0.1);
+    background-color: rgba(255,255,255, 0.1);
+    border: 1px solid rgba(255,255,255, 0.3);
+}
+
+::-webkit-input-placeholder {
+   color: rgba(255,255,255, 0.3);
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: rgba(255,255,255, 0.3);  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: rgba(255,255,255, 0.3);  
+}
+
+:-ms-input-placeholder {  
+   color: rgba(255,255,255, 0.3);  
+}
+
+form > button {
+    background-color: #E84A15;
+    border-radius: 3px;
+    border: 0;
+}
+
+nav {
+    border-top: 1px solid rgba(255,255,255, 0.5);
+    border-bottom: 1px solid rgba(255,255,255, 0.5);
+    text-align: center;
+    overflow: hidden;
+    padding: 15px;
+    margin-top: 60px;
+}
+
+header > nav > a {
+    padding: 25px;
+}
+
+a, a:visited {
+   color: white;
+   text-decoration: none; 
+}
+
+/*******************************************************************************
+    Hero with the slogan
+*******************************************************************************/
+
+.hero {
+    background: radial-gradient(rgba(3, 142, 168, 0.4), #038EA8), url('bg.jpg');
+    background-size: cover;
+}
+
+.hero > div {
+    margin: auto;
+    min-height: 500px;
+    width: 1100px;
+    color: white;
+    position: relative;
+    text-align: center;
+}
+
+.slogan {
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+}
+
+.slogan > div {
+    font-size: 3.3em;
+    font-weight: 300;
+}
+
+.slogan > div > span {
+    font-weight: 700;
+    font-family:;
+}
+
+.slogan > p {
+    padding-bottom: 10px;
+}
+
+/*******************************************************************************
+    Breakouts
+*******************************************************************************/
+
+.breakouts {
+    width: 1100px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.breakouts::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
+.breakouts > .breakout {
+   background-color: white;
+   display: inline-block;
+   height: 200px;
+   width: 340px;
+   padding: 20px;
+   margin-top: -50px;
+   margin-bottom: 10px;
+   text-align: center;
+   -webkit-box-shadow: 0 0 15px -5px #000000;
+    box-shadow: 0 0 15px -5px #000000;
+}
+
+.b1 {
+    border-top:3px solid #F15119;
+}
+
+.b2{
+    border-top:3px solid #94D242;
+    border-bottom:;
+}
+
+.b3 {
+    border-top:3px solid #0A95D7;
+    border-bottom:;
+}
+
+.breakouts > * + * {
+    margin-left: 15px;
+}
+
+.breakout-header {
+    font-family: "Open Sans";
+    font-size: 12pt;
+    font-weight: 700;
+    color: #423E44;
+}
+
+.btn-sell, .btn-food, .btn-help {
+    transform: translateY(25px);
+    display: block;
+    margin: auto;
+}
+
+.btn-sell {
+    border-radius: 5px;
+    border:1px solid #0A95D7;
+    background-color: white;
+    color: #0A95D7;
+}
+
+.btn-food {
+    border-radius: 5px;
+    border:1px solid #94D242;
+    background-color: white;
+    color: #94D242;
+}
+
+.btn-help {
+    border-radius: 5px;
+    border:1px solid #F15119;
+    background-color: white;
+    color: #F15119;
+}
+
+/*******************************************************************************
+    Main Primary Content work
+*******************************************************************************/
+
+
+.primary-content {
+    background-color: #D7E1E7;
+    padding: 15px;
+}
+
+.primary-content > div:nth-child(2) {
+    background-color: white;
+    width: 1100px;
+    margin: auto;
+    min-height: 300px;
+    overflow: hidden;
+    -webkit-box-shadow: 0 0 15px -5px #000000;
+    box-shadow: 0 0 15px -5px #000000;
+}
+/*******************************************************************************
+    Media Objects in Aside
+*******************************************************************************/
+
+aside {
+    float: left;
+    width: 430px;
+}
+
+.media {
+    background-color: rgba(10, 149, 215, 0.1);
+    overflow: hidden;
+    margin: 10px;
+}
+
+aside > *+* {
+    margin-top: 10px;
+}
+
+.graphic {
+    float: left;
+    height:100px;
+    width: 100px;
+}
+
+.content {
+    margin-left: 100px;
+}
+
+.content > div {
+    font-weight: 300;
+    padding-left: 5px;
+    color: #0A95D7;
+    font-size: 1.5em;
+}
+
+.content > span {
+    display: inline-block;
+    padding-left: 5px;
+}
+
+/*******************************************************************************
+    Dog Images
+*******************************************************************************/
+
+.pic1 {
+    background: url("dog1.png");
+    background-size: cover;
+}
+
+.pic2 {
+    background: url("dog2.png");
+    background-size: cover;
+}
+
+.pic3 {
+    background: url("dog3.png");
+    background-size: cover;
+}
+
+/*******************************************************************************
+    Tile Shelf and tiles
+*******************************************************************************/
+
+main {
+    margin-left: 430px;
+}
+
+/*.tile-container {
+    display:inline-block;
+    margin: 0/*;
+*//*    width: 175px;
+*/
+
+div.tile {
+    display: inline-block;
+    margin: 0 auto;
+    vertical-align: top;
+    width: 175px;
+    margin: 10px 0 10px 10px;
+}
+
+.img {
+    width: 175px;
+    height: 175px;
+}
+
+.descript {
+    background-color: rgba(142, 207, 65, 0.3);
+}
+
+.descript > span {
+    display: block;
+    padding-left: 5px;
+}
+
+.descript > div {
+    font-weight: 400;
+    background-color: #8ECF41;
+    color: #466C0E;
+    padding-left: 5px;
+}
